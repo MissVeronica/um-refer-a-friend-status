@@ -5,7 +5,7 @@ Extension to Ultimate Member for integration of the "Refer A Friend for WooComme
 None
 
 ## UM Account Page
-https://imgur.com/a/WzCfhrs
+https://imgur.com/a/u4NwABh
 
 ## Reference
 https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/
